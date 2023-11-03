@@ -14,14 +14,14 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Space Invaders")
 
 # Load player image with transparent background
-player_img = pygame.image.load("player.png").convert_alpha()
-player_img = pygame.transform.scale(player_img, (50, 50))
+player_img = pygame.image.load("6206454607187545408.webp").convert_alpha()
+player_img = pygame.transform.scale(player_img, (65, 65))
 
 # Load obstacle images with transparent backgrounds
 obstacle_imgs = [
-    pygame.image.load("obstacle1.jpeg").convert_alpha(),
-    pygame.image.load("obstacle2.jpg").convert_alpha(),
-    pygame.image.load("obstacle3.jpg").convert_alpha(),
+    pygame.image.load("6206454607187545401.webp").convert_alpha(),
+    pygame.image.load("6206454607187545402.webp").convert_alpha(),
+    pygame.image.load("6206454607187545404.webp").convert_alpha(),
 ]
 
 for i in range(3):

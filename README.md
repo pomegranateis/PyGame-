@@ -40,13 +40,3 @@ Include screenshots or gifs of your game to give users a preview.
 
 - **Game Over Screen:**
   - Press Space to restart the game.
-
-## Credits
-
-- Game assets: [Provide credits for any external assets used.]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize this template based on the specifics of your project. Make sure to include any additional information that you think would be helpful for users or developers interacting with your game on GitHub.
